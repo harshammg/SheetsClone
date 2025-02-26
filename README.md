@@ -34,7 +34,7 @@ A modern, React-based spreadsheet application that mimics core Google Sheets fun
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SheetsClone.git
+git clone https://github.com/harshammg/SheetsClone.git
 ```
 
 2. Install dependencies:
